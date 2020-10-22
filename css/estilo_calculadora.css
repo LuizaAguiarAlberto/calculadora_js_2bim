@@ -1,0 +1,41 @@
+
+
+button{
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+}
+
+.estilo_tela{
+    height: 50px;
+    width: 295px;
+    text-align: right;
+    border-radius: 30px;
+    font-size: 190%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.estilo_ac{
+    background-color: rgb(240, 109, 218);
+    color: rgb(252, 172, 255);
+    font-size: 190%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.estilo_num {
+    background-color: #ecbbec;
+    font-size: 190%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.estilo_operador{
+    background-color: rgb(240, 109, 218);
+    color: rgb(252, 172, 255);
+    font-size: 190%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+
